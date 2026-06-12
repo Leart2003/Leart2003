@@ -1,7 +1,7 @@
 # Hi, I'm Leart Maloku 👋
 
 💻 **Software Developer** passionate about building clean, practical, and scalable web applications.  
-I specialize in full-stack development with a strong focus on **ASP.NET Core**, **C#**, and **React** — and I'm actively exploring **Data Science**, **AI/ML**, and **LLMs**.
+I specialize in .NET development and Javascript with a strong focus on **ASP.NET Core**, **C#**, and **React** — and curiosity about exploring **Data Science**, **AI/ML**, and **LLMs**.
 
 ---
 
@@ -31,9 +31,6 @@ I specialize in full-stack development with a strong focus on **ASP.NET Core**, 
 ### 🛒 [Product Management System](https://github.com/Leart2003/ProductManagementSystem)
 A full-stack ASP.NET Core app with Clean Architecture, EF Core, SQL Server, and ASP.NET Core Identity (cookie-based auth). Includes product management, role-based authorization, and admin functionality.
 
-### 📦 DEPO — Warehouse Management System
-Academic team project built with **React**, **Spring Boot**, and **PostgreSQL**. Handled inventory tracking and warehouse operations with a clean, component-based frontend.
-
 ### 📚 Book Management System API *(in progress)*
 RESTful API in **ASP.NET Core** following Clean Architecture principles. Covers domain modeling, EF Core, CRUD for books, authors, and categories.
 
@@ -42,8 +39,7 @@ RESTful API in **ASP.NET Core** following Clean Architecture principles. Covers 
 ## 🏆 Highlights
 
 - ✅ Built and submitted a full-stack .NET assignment for a technical interview (ProductManagementSystem)
-- 🎓 Completed BSc in Professional Programming
-- 🔁 Enrolled in MERN Stack training at ROI Academy
+- 🎓 Completed BA in Professional Programming
 - 📈 Continuously growing in .NET, React, SQL, and system design
 
 ---
