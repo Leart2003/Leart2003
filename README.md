@@ -1,54 +1,55 @@
 # Hi, I'm Leart Maloku 👋
 
-💻 **Software Developer** passionate about building clean, practical, and database-driven applications.
-
-I focus on developing full-stack web applications using **ASP.NET Core**, **C#**, **React**, **JavaScript**, **Entity Framework**, **SQL Server**, and modern web technologies.
-Curiosity about Data Science, AI/ML and LLMs
+💻 **Software Developer** passionate about building clean, practical, and scalable web applications.  
+I specialize in full-stack development with a strong focus on **ASP.NET Core**, **C#**, and **React** — and I'm actively exploring **Data Science**, **AI/ML**, and **LLMs**.
 
 ---
 
 ## 🚀 About Me
 
-🎓 Bachelor in Programming / Computer Programming — AAB College
-🎓 Currently pursuing MSc in Computer Science — AAB College
-🧠 Focused on Full-Stack Web Application Development
-💼 Interested in junior software developer/.NET developer
-🌍 Open to remote and local developer opportunities
-📫 Email: [malokuleart@gmail.com](mailto:malokuleart@gmail.com)
-💻 GitHub: github.com/Leart2003
+- 🎓 BA in Professional Programming — AAB College, Kosovo
+- 🎓 MSc in Computer Science (in progress) — AAB College
+- 🧠 Focused on Full-Stack & Backend Web Development (.NET ecosystem)
+- 💼 Seeking a Junior .NET / Software Developer role
+- 🌍 Open to remote and on-site opportunities (Prishtina & beyond)
+- 📫 [malokuleart@gmail.com](mailto:malokuleart@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/leart-maloku-8b1482201/)
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages:**
-C#, JavaScript, SQL,React, ASP.NET MVC,ASP.NET API.
-**Frameworks & Tools:**
-ASP.NET Core MVC, ASP.NET Core Web API, Entity Framework Core, React, Node.js, Express.js, Bootstrap, SQL Server.
-
-**Other Skills:**
-REST APIs, CRUD Operations, Authentication Systems, Git, GitHub, Swagger, Postman, Clean Architecture, Database Design, Repository Pattern.
+**Languages:** C#, JavaScript, SQL  
+**Frameworks:** ASP.NET Core MVC, ASP.NET Core Web API, Entity Framework Core, React, Node.js, Express.js  
+**Tools & Practices:** Git, GitHub, Swagger, Postman, Bootstrap  
+**Architecture:** Clean Architecture, Repository Pattern, REST APIs, Database Design
 
 ---
 
+## 📂 Featured Projects
 
+### 🛒 [Product Management System](https://github.com/Leart2003/ProductManagementSystem)
+A full-stack ASP.NET Core app with Clean Architecture, EF Core, SQL Server, and ASP.NET Core Identity (cookie-based auth). Includes product management, role-based authorization, and admin functionality.
 
+### 📦 DEPO — Warehouse Management System
+Academic team project built with **React**, **Spring Boot**, and **PostgreSQL**. Handled inventory tracking and warehouse operations with a clean, component-based frontend.
 
----
-
-## 🏆 Achievements
-
-🎓 Completed Bachelor studies in Programming / Computer Programming
-💻 Built a web-based Inventory Management System as a final year project
-📚 Currently studying MSc Computer Science
-🚀 Continuously improving skills in .NET, React, SQL, and full-stack development
-
----
-
+### 📚 Book Management System API *(in progress)*
+RESTful API in **ASP.NET Core** following Clean Architecture principles. Covers domain modeling, EF Core, CRUD for books, authors, and categories.
 
 ---
 
-## ✨ Let’s Connect
+## 🏆 Highlights
 
-📫 **Email:** [malokuleart@gmail.com](mailto:malokuleart@gmail.com)
-💻 **GitHub:** [github.com/malokuleart](https://github.com/malokuleart)
+- ✅ Built and submitted a full-stack .NET assignment for a technical interview (ProductManagementSystem)
+- 🎓 Completed BSc in Professional Programming
+- 🔁 Enrolled in MERN Stack training at ROI Academy
+- 📈 Continuously growing in .NET, React, SQL, and system design
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leart%20Maloku-blue?logo=linkedin)](https://www.linkedin.com/in/leart-maloku-8b1482201/)
+[![GitHub](https://img.shields.io/badge/GitHub-Leart2003-black?logo=github)](https://github.com/Leart2003)
+[![Email](https://img.shields.io/badge/Email-malokuleart@gmail.com-red?logo=gmail)](mailto:malokuleart@gmail.com)
