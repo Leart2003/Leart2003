@@ -38,7 +38,6 @@ RESTful API in **ASP.NET Core** following Clean Architecture principles. Covers 
 
 ## 🏆 Highlights
 
-- ✅ Built and submitted a full-stack .NET assignment for a technical interview (ProductManagementSystem)
 - 🎓 Completed BA in Professional Programming
 - 📈 Continuously growing in .NET, React, SQL, and system design
 
