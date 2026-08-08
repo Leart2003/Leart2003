@@ -7,8 +7,8 @@ I specialize in .NET development and Javascript with a strong focus on **ASP.NET
 
 ## 🚀 About Me
 
-- 🎓 BA in Professional Programming — AAB College, Kosovo
-- 🎓 MSc in Computer Science (in progress) — AAB College
+- 🎓 BA in Professional Programming — AAB College, Kosovo,Prishtinë
+- 🎓 MSc in Computer Science (in progress) — AAB College, Kosovo, Prishtinë
 - 🧠 Focused on Full-Stack & Backend Web Development (.NET ecosystem)
 - 💼 Seeking a Junior .NET / Software Developer role
 - 🌍 Open to remote and on-site opportunities (Prishtina & beyond)
@@ -21,7 +21,7 @@ I specialize in .NET development and Javascript with a strong focus on **ASP.NET
 
 **Languages:** C#, JavaScript, SQL  
 **Frameworks:** ASP.NET Core MVC, ASP.NET Core Web API, Entity Framework Core, React, Node.js, Express.js  
-**Tools & Practices:** Git, GitHub, Swagger, Postman, Bootstrap  
+**Tools & Practices:** Git, GitHub, Swagger, Postman.  
 **Architecture:** Clean Architecture, Repository Pattern, REST APIs, Database Design
 
 ---
@@ -31,7 +31,7 @@ I specialize in .NET development and Javascript with a strong focus on **ASP.NET
 ### 🛒 [Product Management System](https://github.com/Leart2003/ProductManagementSystem)
 A full-stack ASP.NET Core app with Clean Architecture, EF Core, SQL Server, and ASP.NET Core Identity (cookie-based auth). Includes product management, role-based authorization, and admin functionality.
 
-### 📚 Book Management System API *(in progress)*
+### 📚 Book Management System API
 RESTful API in **ASP.NET Core** following Clean Architecture principles. Covers domain modeling, EF Core, CRUD for books, authors, and categories.
 
 ---
@@ -39,7 +39,7 @@ RESTful API in **ASP.NET Core** following Clean Architecture principles. Covers 
 ## 🏆 Highlights
 
 - 🎓 Completed BA in Professional Programming
-- 📈 Continuously growing in .NET, React, SQL, and system design
+- 📈 Continuously growing in .NET, React, SQL, datasciene and system design
 
 ---
 
