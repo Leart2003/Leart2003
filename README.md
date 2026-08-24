@@ -48,3 +48,4 @@ RESTful API in **ASP.NET Core** following Clean Architecture principles. Covers 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leart%20Maloku-blue?logo=linkedin)](https://www.linkedin.com/in/leart-maloku-8b1482201/)
 [![GitHub](https://img.shields.io/badge/GitHub-Leart2003-black?logo=github)](https://github.com/Leart2003)
 [![Email](https://img.shields.io/badge/Email-malokuleart@gmail.com-red?logo=gmail)](mailto:malokuleart@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Leart2003&color=blue)](https://github.com/Leart2003/Leart2003)
