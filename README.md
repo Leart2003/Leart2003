@@ -29,7 +29,7 @@ I specialize in .NET development and Javascript with a strong focus on **ASP.NET
 ## 📂 Featured Projects
 
 ### 🛒 [Product Management System](https://github.com/Leart2003/ProductManagementSystem)
-A full-stack ASP.NET Core app with Clean Architecture, EF Core, SQL Server, and ASP.NET Core Identity (cookie-based auth). Includes product management, role-based authorization, and admin functionality.
+A full-stack ASP.NET Core app with Clean Architecture, EF Core, SQL Server, and ASP.NET Core Identity . Includes product management, role-based authorization, and admin functionality.
 
 ### 📚 Book Management System API
 RESTful API in **ASP.NET Core** following Clean Architecture principles. Covers domain modeling, EF Core, CRUD for books, authors, and categories.
@@ -39,7 +39,7 @@ RESTful API in **ASP.NET Core** following Clean Architecture principles. Covers 
 ## 🏆 Highlights
 
 - 🎓 Completed BA in Professional Programming
-- 📈 Continuously growing in .NET, React, SQL, datasciene and system design
+- 📈 Continuously growing in .NET, React, SQL, datascience and system design
 
 ---
 
