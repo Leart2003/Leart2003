@@ -54,8 +54,6 @@ A backend-focused project for managing books, authors, and categories. This was 
 ### 📦 [Stock Management](https://github.com/Leart2003/StockManagement)
 A .NET app focused on inventory and stock management. It helped me work on practical business logic and data handling in a simple but useful system.
 
-### 👥 [Employee Admin With Web API](https://github.com/Leart2003/EmployeeAdminWithWebApi)
-A project built around employee data management and API communication. It was useful for learning how Web APIs connect to application logic.
 
 ### 🏫 [University Platform](https://github.com/Leart2003/UniversityPlatform)
 A university-related system that helped me practice designing app flows, working with data, and creating larger project structures.
@@ -69,17 +67,11 @@ A small project where I explored chatbot-style logic and AI-related ideas using 
 ### 🧠 [Data Analysis](https://github.com/Leart2003/DataAnalysis)
 A Python project focused on data analysis and understanding patterns in datasets. I used it to improve my data-handling and analysis skills.
 
-### 🔍 [Data Mining](https://github.com/Leart2003/DataMining)
-A Python project for learning data mining concepts and exploring how information can be processed and interpreted.
 
 ### 🚀 [URL Shortener ASP.NET MVC](https://github.com/Leart2003/UrlShortenASP.NETMVC)
 A simple ASP.NET MVC app for shortening URLs. It was a practical exercise in building a small working web app from start to finish.
 
-### 🧩 [CloneApp](https://github.com/Leart2003/CloneApp)
-A JavaScript frontend project where I practiced building UI ideas and learning how frontend logic works in a real application.
 
-### 💡 [Kalkuloje.com](https://github.com/Leart2003/Kalkuloje.com)
-A JavaScript project focused on a lightweight web app idea and improving my frontend development practice.
 
 ---
 
@@ -91,7 +83,7 @@ Right now I’m trying to become stronger in:
 - Clean code and clean architecture
 - SQL and database design
 - REST API best practices
-- React and frontend fundamentals
+- React
 - Data science and AI basics
 
 I know I’m still junior, but I’m learning every day and trying to build projects that show my progress.
@@ -104,4 +96,3 @@ I know I’m still junior, but I’m learning every day and trying to build proj
 [![GitHub](https://img.shields.io/badge/GitHub-Leart2003-black?logo=github)](https://github.com/Leart2003)
 [![Email](https://img.shields.io/badge/Email-malokuleart@gmail.com-red?logo=gmail)](mailto:malokuleart@gmail.com)
 
-If you want to work together, collaborate on a project, or just talk about software development, feel free to reach out.
