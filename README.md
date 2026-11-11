@@ -6,8 +6,8 @@ I’m currently improving my backend, API, database, and full-stack development 
 
 - 🎓 BA in Professional Programming — AAB College, Kosovo
 - 🎓 MSc in Computer Science (in progress) — AAB College, Kosovo
-- 💻 Focused on .NET, ASP.NET Core, C#, SQL, and JavaScript
-- 🌱 Learning more about clean architecture, REST APIs, and full-stack development
+- 💻 Focused on .NET, ASP.NET Core, C#, SQL, and JavaScript and a little bit on python
+-  🌱 Learning more about clean architecture, REST APIs, and full-stack development
 - 📫 [malokuleart@gmail.com](mailto:malokuleart@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/leart-maloku-8b1482201/)
 
@@ -27,7 +27,6 @@ I’m currently improving my backend, API, database, and full-stack development 
 - Entity Framework Core
 - React
 - Node.js
-- Express.js
 - Git & GitHub
 - Swagger
 - Postman
